@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Chrome Web Design - Contact Page</title>
+<meta name="keywords" content="Chrome, Contact, Web Design, CSS, HTML, free template" />
+<meta name="description" content="Contact Chrome Web - free HTML CSS template from templatemo.com" />
+<link href="templatemo_style.css" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" href="css/ddsmoothmenu.css" />
+
+</head>
+<body>
+
+<div id="templatemo_wrapper">
+
+	<div id="templatemo_header">
+    
+    	<div id="site_title"><h1><a href="http://www.templatemo.com" target="_parent">TMMR</a></h1></div>
+        
+        <!--Menu de arriba / tabs -->
+        
+        <div id="templatemo_menu" class="ddsmoothmenu">
+            <ul>
+              	<li>
+          		<li><a href="index.html" >Inicio</a>
+                    
+              	</li>
+          		<li><a href="Servicios.html">Servicios</a>
+                   
+              	</li>
+              	<li><a href="contact.html" class="selected">Contacto</a>
+                	
+                </li>
+              	
+            </ul>
+            <br style="clear: left" />
+        </div> <!-- /menu -->
+        
+    </div> 
+   <!-- columna inquierda principal --> 
+    <div id="templatemo_main">
+    	<h2>Contact Us</h2>
+       
+  <!-- columna derecha -->      
+        <div class="col_w300 float_r">
+            <div class="col_fw">	
+            <h4>Mailing Address</h4>
+                <h6> Web Design Studio</h6>
+                150-320 Duis lacinia dictum, <br />
+                PVestibulum auctor, 10720<br />
+                Nam rhoncus, diam a mollis tempor<br />
+                Tel: 010-020-0340<br />
+            <br />
+                Validate <a href="http://validator.w3.org/check?uri=referer" rel="nofollow">XHTML</a> &amp; <a href="http://jigsaw.w3.org/css-validator/check/referer" rel="nofollow">CSS</a></div>            
+            <div class="col_fw_last">
+                <h4>Our Location</h4>
+                <div id="map"><a class="pirobox" href="images/map_big.jpg" title="Lorem ipsum dolor sit amet, consectetur adipiscing elit."><img src="images/map_thumb.jpg" alt="Image" /></a></div>                
+            </div>
+        </div>
+	    <div class="cleaner"></div>
+    </div> <!-- end of main -->
+</div>
+<div class="cleaner"></div>
+		</div>
+        
+            <div class="cleaner h20"></div>
+            
+            <div class="cleaner"></div>
+        </div>
+        <div class="cleaner"></div>
+        </div>
+    </div>
+    
+    <div class="cleaner"></div>
+
+<div id="templatemo_footer_wrapper">
+    <div id="templatemo_footer">
+        Copyright © 2048 <a href="#">Your Company Name</a> | 
+        Designed by <a href="http://www.templatemo.com" target="_parent">Free CSS Templates</a>
+        <div class="cleaner"></div>
+    </div>
+</div> 
+  
+</body>
+</html>
